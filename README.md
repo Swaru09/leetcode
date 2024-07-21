@@ -22,3 +22,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Swaru09/leetcode/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Swaru09/leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Swaru09/leetcode/tree/master/0125-valid-palindrome) |
+<!---LeetCode Topics End-->
