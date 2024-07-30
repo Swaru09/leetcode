@@ -16,20 +16,16 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
-        levelOrderHelper(root, result);
-        return result;
-    }
-
-    private void levelOrderHelper(TreeNode root, List<List<Integer>> result) {
         if (root == null) {
-            return;
+            return result;
         }
 
         Queue<TreeNode> queue = new ArrayDeque<>();
         queue.offer(root);
+        
         while (!queue.isEmpty()) {
             int size = queue.size();
-            List<Integer> level = new ArrayList<>();
+            List<Integer> level = new ArrayList<>(size); // Initial capacity set to the number of elements at this level
             for (int i = 0; i < size; i++) {
                 TreeNode node = queue.poll();
                 level.add(node.val);
@@ -42,5 +38,7 @@ class Solution {
             }
             result.add(level);
         }
+        
+        return result;
     }
 }
