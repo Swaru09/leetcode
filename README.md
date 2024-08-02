@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 ## Stack
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swaru09/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
