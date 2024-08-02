@@ -20,6 +20,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Swaru09/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Swaru09/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Swaru09/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/Swaru09/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Swaru09/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/Swaru09/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
