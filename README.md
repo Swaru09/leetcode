@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaru09/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2727-number-of-senior-citizens](https://github.com/Swaru09/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Swaru09/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Swaru09/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/Swaru09/leetcode/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
