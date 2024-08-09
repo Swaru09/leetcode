@@ -15,6 +15,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Swaru09/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Swaru09/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Swaru09/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/Swaru09/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
