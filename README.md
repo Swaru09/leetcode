@@ -67,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Swaru09/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaru09/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Swaru09/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2727-number-of-senior-citizens](https://github.com/Swaru09/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Swaru09/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
