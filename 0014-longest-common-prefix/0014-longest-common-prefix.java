@@ -7,6 +7,7 @@ class Solution {
                 if(i>=strs[j].length()||strs[j].charAt(i)!=c){
                     return st.toString();
                 }
+
             }
             st.append(c);
         }
