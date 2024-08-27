@@ -101,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Swaru09/leetcode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/Swaru09/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Swaru09/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Swaru09/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
