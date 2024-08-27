@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swaru09/leetcode/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaru09/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swaru09/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Linked List
 |  |
@@ -96,6 +98,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Trie
 |  |
@@ -122,4 +125,9 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Swaru09/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
