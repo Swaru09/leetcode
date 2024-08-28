@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swaru09/leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaru09/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaru09/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -98,6 +100,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Trie
