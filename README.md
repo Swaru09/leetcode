@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swaru09/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaru09/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Swaru09/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -30,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaru09/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Linked List
 |  |
@@ -112,6 +115,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Trie
 |  |
@@ -137,6 +141,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swaru09/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Swaru09/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
