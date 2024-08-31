@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Swaru09/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Swaru09/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Swaru09/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Swaru09/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Swaru09/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Swaru09/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swaru09/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Swaru09/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -123,6 +125,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Swaru09/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Swaru09/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swaru09/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/Swaru09/leetcode/tree/master/2032-largest-odd-number-in-string) |
