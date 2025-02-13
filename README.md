@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Swaru09/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Swaru09/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Swaru09/leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Swaru09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Swaru09/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swaru09/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -95,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Swaru09/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -168,4 +170,8 @@
 | [1827-invalid-tweets](https://github.com/Swaru09/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Swaru09/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Swaru09/leetcode/tree/master/2087-confirmation-rate) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Swaru09/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
