@@ -1,18 +1,18 @@
 class Solution {
+    public boolean reverse(String s,int start, int end){
+        if(start>=end){
+            return true;
+        }
+        if(s.charAt(start)!=s.charAt(end)){
+            return false;
+        }
+        return reverse(s,start+1,end-1);
+    }
     public boolean isPalindrome(String s) {
-        String temp=s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
         if(s==null){
             return false;
         }
-        int left=0;
-        int right=temp.length()-1;
-        while(left<right){
-            if(temp.charAt(left)!=temp.charAt(right)){
-                return false;
-            }
-            left++;
-            right--;
-        }
-        return true;
+        String temp=s.replaceAll("[^a-zA-Z0-9]","").toLowerCase();
+        return reverse(temp,0,temp.length()-1);
     }
 }
