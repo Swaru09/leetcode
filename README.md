@@ -126,6 +126,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Swaru09/leetcode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Swaru09/leetcode/tree/master/0069-sqrtx) |
 | [2032-largest-odd-number-in-string](https://github.com/Swaru09/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
