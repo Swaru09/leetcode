@@ -114,6 +114,7 @@
 | [0055-jump-game](https://github.com/Swaru09/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swaru09/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Swaru09/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1013-fibonacci-number](https://github.com/Swaru09/leetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0007-reverse-integer](https://github.com/Swaru09/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Swaru09/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Swaru09/leetcode/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/Swaru09/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Swaru09/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -178,4 +180,12 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Swaru09/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Swaru09/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Swaru09/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
