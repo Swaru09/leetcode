@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/Swaru09/leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Swaru09/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Swaru09/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Swaru09/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Swaru09/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swaru09/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -34,6 +35,7 @@
 | [0125-valid-palindrome](https://github.com/Swaru09/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Swaru09/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Swaru09/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Swaru09/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Swaru09/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
@@ -135,6 +137,7 @@
 | [0007-reverse-integer](https://github.com/Swaru09/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Swaru09/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Swaru09/leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Swaru09/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Swaru09/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Swaru09/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
